@@ -4,6 +4,6 @@ Copyrights © abrsoftwaretechnologies@gmail.com All Rights Reserved
 
 Getting Started
 npm install,
-cd frontend/npm install
+cd frontend/npm install && npm run build
 npm start 
 very simple
